@@ -1,4 +1,17 @@
 COSC2196 - 3.0.0 Assessment Task 1: My Profile
+
+This webpage is my personal profile as part of my first assignment
+
+I made use of a HTML5UP template credits are bellow.
+
+
+
+
+
+
+
+
+
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
