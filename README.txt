@@ -1,6 +1,6 @@
 COSC2196 - 3.0.0 Assessment Task 1: My Profile
 
-This webpage is my personal profile as part of an assignment at RMIT .
+This webpage is my personal profile as part of an assignment at RMIT.
 
 I made use of a HTML5UP template credits are bellow.
 
